@@ -1,0 +1,14 @@
+#container{
+    background-color: white;
+    text-align: center;
+}
+
+#task{
+    height: 30px;
+    width: 400px;
+    margin-top: 17px;
+    justify-content: center;
+    margin-inline: 2px;
+}
+
+

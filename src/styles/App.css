@@ -1,0 +1,25 @@
+h1 {
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    }
+    
+
+button{
+    color: #27aedb;
+    text-align: center;
+    /* margin-bottom: 112px; */
+    height: 30px;
+    width: auto;
+
+}
+
+.bg-pink{
+	background-color:pink;
+
+}
+#main{
+    width: 550px;
+    margin: auto;
+    background-color: palevioletred;
+}
